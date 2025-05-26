@@ -54,7 +54,7 @@ This project focuses on introducing innovative technological solutions to common
 
 bash
 # Clone the repository
-git clone https://github.com/yourusername/goswift.git
+git clone https://github.com/vvirajith/Go-Swift.git
 cd goswift
 
 # Open the project with your mobile IDE (e.g., Android Studio, VS Code)
